@@ -1,0 +1,89 @@
+{
+  "sha": "1ddf54b8f2a7339a83ae7f53d32f7edf19f9fc8e",
+  "commit": {
+    "author": {
+      "name": "oc.github",
+      "email": "oc.github@gmail.com",
+      "date": "2014-04-08T10:21:18Z"
+    },
+    "committer": {
+      "name": "oc.github",
+      "email": "oc.github@gmail.com",
+      "date": "2014-04-08T10:21:18Z"
+    },
+    "message": "my commit message",
+    "tree": {
+      "sha": "4a79ddf66cd930868c0f5026ee569f301315b7a0",
+      "url": "https://api.github.com/repos/oc-github/gt-cmt/git/trees/4a79ddf66cd930868c0f5026ee569f301315b7a0"
+    },
+    "url": "https://api.github.com/repos/oc-github/gt-cmt/git/commits/1ddf54b8f2a7339a83ae7f53d32f7edf19f9fc8e",
+    "comment_count": 0
+  },
+  "url": "https://api.github.com/repos/oc-github/gt-cmt/commits/1ddf54b8f2a7339a83ae7f53d32f7edf19f9fc8e",
+  "html_url": "https://github.com/oc-github/gt-cmt/commit/1ddf54b8f2a7339a83ae7f53d32f7edf19f9fc8e",
+  "comments_url": "https://api.github.com/repos/oc-github/gt-cmt/commits/1ddf54b8f2a7339a83ae7f53d32f7edf19f9fc8e/comments",
+  "author": {
+    "login": "oc-github",
+    "id": 7201519,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7201519?",
+    "gravatar_id": "360929cac342a353543692a24c50a187",
+    "url": "https://api.github.com/users/oc-github",
+    "html_url": "https://github.com/oc-github",
+    "followers_url": "https://api.github.com/users/oc-github/followers",
+    "following_url": "https://api.github.com/users/oc-github/following{/other_user}",
+    "gists_url": "https://api.github.com/users/oc-github/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/oc-github/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/oc-github/subscriptions",
+    "organizations_url": "https://api.github.com/users/oc-github/orgs",
+    "repos_url": "https://api.github.com/users/oc-github/repos",
+    "events_url": "https://api.github.com/users/oc-github/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/oc-github/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "oc-github",
+    "id": 7201519,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7201519?",
+    "gravatar_id": "360929cac342a353543692a24c50a187",
+    "url": "https://api.github.com/users/oc-github",
+    "html_url": "https://github.com/oc-github",
+    "followers_url": "https://api.github.com/users/oc-github/followers",
+    "following_url": "https://api.github.com/users/oc-github/following{/other_user}",
+    "gists_url": "https://api.github.com/users/oc-github/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/oc-github/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/oc-github/subscriptions",
+    "organizations_url": "https://api.github.com/users/oc-github/orgs",
+    "repos_url": "https://api.github.com/users/oc-github/repos",
+    "events_url": "https://api.github.com/users/oc-github/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/oc-github/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "ee58adf8b57f55bc6e4a5ae1062b6c3dea32eee3",
+      "url": "https://api.github.com/repos/oc-github/gt-cmt/commits/ee58adf8b57f55bc6e4a5ae1062b6c3dea32eee3",
+      "html_url": "https://github.com/oc-github/gt-cmt/commit/ee58adf8b57f55bc6e4a5ae1062b6c3dea32eee3"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "additions": 1,
+    "deletions": 1
+  },
+  "files": [
+    {
+      "sha": "5906a48e9f8c051622538884a804fe106c20ad36",
+      "filename": "comments",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/oc-github/gt-cmt/blob/1ddf54b8f2a7339a83ae7f53d32f7edf19f9fc8e/comments",
+      "raw_url": "https://github.com/oc-github/gt-cmt/raw/1ddf54b8f2a7339a83ae7f53d32f7edf19f9fc8e/comments",
+      "contents_url": "https://api.github.com/repos/oc-github/gt-cmt/contents/comments?ref=1ddf54b8f2a7339a83ae7f53d32f7edf19f9fc8e",
+      "patch": "@@ -1 +1 @@\n-[{\"page\":\"/blog/turing-machine/\",\"path\":\"1\"},{\"page\":\"/blog/turing-machine-1/\",\"path\":\"2\"}]\n\\ No newline at end of file\n+[{\"page\":\"/blog/turing-machine/\",\"path\":\"1\"},{\"page\":\"/blog/turing-machine-1/\",\"path\":\"2\"},{\"page\":\"/blog/algorithms-vs-code/\",\"path\":\"3\"}]\n\\ No newline at end of file"
+    }
+  ]
+}
